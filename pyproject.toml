@@ -1,0 +1,11 @@
+[project]
+name = "comfyui-dyf"
+version = "0.3.0"
+description = "MiniMax H3 latent-space helpers: lossless continuation, latent-based guides, full conditioning cache, plus a llama.cpp VRAM cleanup hook for TE_MAN"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/lvzhang7274/ComfyUI-DYF"
